@@ -1,8 +1,8 @@
 'use client';
 
-import Header from '../components/Header'
+import Header from '../Components/Header'
 
-import SocialSidebar from '../components/SocialSidebar'
+import SocialSidebar from '../Components/SocialSidebar'
 
 
 import { FaInstagram, FaLinkedin, FaYoutube } from 'react-icons/fa'
